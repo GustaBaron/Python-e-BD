@@ -1,4 +1,4 @@
-#  Python e BD - Atividad de Pesquisa Sobre Bibliotecas Python para Conexão com Bancos de Dados
+#  Python e BD - Atividade de Pesquisa Sobre Bibliotecas Python para Conexão com Bancos de Dados
 
 Pesquisa sobre bibliotecas Python para conexão com bancos de dados
 
