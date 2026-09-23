@@ -1,4 +1,5 @@
-#  Python e BD
+#  Python e BD - Atividad de Pesquisa Sobre Bibliotecas Python para Conexão com Bancos de Dados
+
 Pesquisa sobre bibliotecas Python para conexão com bancos de dados
 
 Aqui falarei sobre sqlite3 e sobre pyodbc
