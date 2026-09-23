@@ -21,7 +21,7 @@ Trabalha estritamente com SQL puro.
 O sqlite3 já vem pré-instalado por padrão na biblioteca padrão do Python
 
 
-2 - pyodbc
+2 - PYODBC
 
 1- Qual é o objetivo principal da biblioteca?
 Permitir o acesso a bancos de dados usando conexões ODBC (Open Database Connectivity), permitindo que aplicativos Python se conectem a praticamente qualquer SGBD que possua um driver ODBC instalado no sistema operacional.
